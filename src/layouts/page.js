@@ -27,6 +27,7 @@ export default class Page extends React.Component {
                             </div>
                         )}
                     </div>
+                    <table></table>
                 </article>
             </Layout>
         );
