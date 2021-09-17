@@ -28,7 +28,7 @@ export default class Page extends React.Component {
                         )}
                     </div>
                     <table>
-                        <th></th>
+                        <th>my table</th>
                     </table>
                 </article>
             </Layout>
