@@ -7,9 +7,12 @@ seo:
   extra: []
 layout: page
 ---
-## Lorem ipsum
+## H2 for my page
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Awesome words and content. 
 
-- Lorem ipsum
-- dolor sit amet
+*   lists
+*   are
+*   good
+
+more words.
